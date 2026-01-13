@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(bd:*)"
+      "Bash(bd:*)",
+      "WebSearch",
+      "Bash(curl:*)"
     ]
   }
 }
